@@ -32,8 +32,6 @@ body {
 	--color-content-title-sub: #6b5537;
     color: var(--color-text);
     background-color: var(--color-bg);
-	background-image: url(https://i.pinimg.com/564x/fd/82/26/fd8226da88c30648433bff3e62fc4823.jpg);
-	background-size: 100%;
     --cursor-stroke: #6b5537;
     --cursor-fill: none;
     --cursor-stroke-width: 1px;
